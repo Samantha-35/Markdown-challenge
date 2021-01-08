@@ -1,6 +1,6 @@
 
 # Samantha 
-*Your true passion should feel like breathing* || Oprah Winfrey||
+*Your true passion should feel like breathing*       Oprah Winfrey
 
 
 
