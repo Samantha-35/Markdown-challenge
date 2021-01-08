@@ -10,7 +10,8 @@
 |-------------------------------|
 | Favorite color|   brown       |
 |-------------------------------|
-|Pizza          |- [x] pineapple|
+|Pizza          |Pinneapple on pizza: <ul><li>- [x] yes</li><li>- [ ] no</li></ul>|
+|
 
 ## Hobbies
 * Movies
@@ -25,7 +26,7 @@ you need organisation or when you need to summarize any work. Also I soon as I f
 
 
 #### Funny story
-I was once followed by a wild board when I was going to school.
+I was once followed by a wild board on my way school.
 TL;DR
 
 [Richard Denys]https://github.com/Richyden/markdown-challenge ||Samantha Ramakers|| [Thomas Letocart]https://github.com/AnonyMouse97/markdown-challenge
