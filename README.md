@@ -1,7 +1,7 @@
 
 # Samantha 
 *Your true passion should feel like breathing* Oprah Winfrey
-"me"
+
 
 
 | Birthday      | 22/08/1986    |
@@ -22,7 +22,7 @@
 * Horseriding
 
 ### You can always count on me when...
-you need organisation or when you need to summarize any work. Also I soon as I feel more comfortable in this new discipline count on me to help you!!
+You need organisation or when you need to summarize any work. Also I soon as I feel more comfortable in this new discipline count on me to help you!!
 
 
 #### Funny story
